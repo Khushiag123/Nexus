@@ -1,7 +1,4 @@
-# Software Company Website    
-## ( [Click here to view the deployed website](https://sherwinvishesh.github.io/Software-Company-Website/) )
 
-This project represents my final internship project at Nexus Info, where I was tasked with creating a comprehensive website for a software company. The goal was to showcase my expertise in delivering top-notch web solutions.
 
 ## Overview
 
@@ -27,19 +24,7 @@ Built with modern web technologies, this website offers a seamless and engaging 
 - `style.scss`: Source SCSS with variables and mixins.
 - `script.js`: JavaScript for interactivity.
 
-## Setup
 
-To set up a local copy:
-
-1. Clone the repo:
-   ```sh
-   git clone https://github.com/sherwinvishesh/Software-Company-Website.git
-   ```
- 2.Navigate to the directory:
- ```sh
-   cd Software-Company-Website
-   ```
-3. Open `index.html` in a browser to view the website.
 
  ## Contributing
 
@@ -56,5 +41,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - Gratitude to all the mentors and colleagues who provided guidance and support throughout this journey.
 
 
-Made with " ♥" by Sherwin Vishesh Jathanna
+Made with " ♥" by khushi agrawal
 
